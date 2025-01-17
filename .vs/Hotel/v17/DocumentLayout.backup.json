@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ruangkreatif.app\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\datakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\datakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\model\\repository\\kamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\model\\repository\\kamarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\datakamar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\datakamar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\controller\\kamarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\controller\\kamarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\datakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\datakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\model\\entry\\kamarentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\model\\entry\\kamarentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|d:\\ruangkreatif.app\\hotel\\hotel\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\model\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\model\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\frmdatakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\frmdatakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\frtamu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\frtamu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\model\\entry\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\model\\entry\\reservations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\model\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\model\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\controller\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\controller\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\model\\entry\\tamu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\model\\entry\\tamu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\model\\entry\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\model\\entry\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\model\\repository\\tamurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\model\\repository\\tamurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|D:\\ruangkreatif.app\\Hotel\\hotel\\view\\frtamu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C563F-B1C8-4F86-A35D-6EA0E6D3562F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\view\\frtamu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Hotel\\Model\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Hotel\\Model\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:44:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KamarController.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Controller\\KamarController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controller\\KamarController.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Controller\\KamarController.cs",
+              "RelativeToolTip": "Hotel\\Controller\\KamarController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAywBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:27:28.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "datakamar.Designer.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\datakamar.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\datakamar.Designer.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\datakamar.Designer.cs",
+              "RelativeToolTip": "Hotel\\View\\datakamar.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:39:02.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KamarRepository.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Repository\\KamarRepository.cs",
+              "RelativeDocumentMoniker": "Hotel\\Model\\Repository\\KamarRepository.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Repository\\KamarRepository.cs",
+              "RelativeToolTip": "Hotel\\Model\\Repository\\KamarRepository.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAvwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:59:01.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\dashboard.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\dashboard.cs",
+              "ToolTip": "C:\\Users\\laura\\Downloads\\Ulfiyatun\\Hotel (3)\\Hotel\\Hotel\\Hotel\\Hotel\\View\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:40:54.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\dashboard.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\dashboard.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\dashboard.cs",
+              "RelativeToolTip": "Hotel\\View\\dashboard.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:07:53.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Context\\DbContext.cs",
+              "RelativeDocumentMoniker": "Hotel\\Model\\Context\\DbContext.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Context\\DbContext.cs",
+              "RelativeToolTip": "Hotel\\Model\\Context\\DbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:29:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "datakamar.cs [Design]",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\datakamar.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\datakamar.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\datakamar.cs [Design]",
+              "RelativeToolTip": "Hotel\\View\\datakamar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:10:30.44Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "datakamar.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\datakamar.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\datakamar.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\datakamar.cs",
+              "RelativeToolTip": "Hotel\\View\\datakamar.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAMwJIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:32:03.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrTamu.cs [Design]",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\FrTamu.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\FrTamu.cs",
+              "ToolTip": "C:\\Users\\ThinkFast\\Downloads\\Hotel\\Hotel\\Hotel\\Hotel\\View\\FrTamu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:43:49.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controller\\UserController.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Controller\\UserController.cs",
+              "RelativeToolTip": "Hotel\\Controller\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:02:49.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel\\Program.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Program.cs",
+              "RelativeToolTip": "Hotel\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:43:33.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDatakamar.cs [Design]",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\FrmDatakamar.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\FrmDatakamar.cs",
+              "ToolTip": "C:\\Users\\laura\\Downloads\\Ulfiyatun\\Hotel (3)\\Hotel\\Hotel\\Hotel\\Hotel\\View\\FrmDatakamar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T05:22:34.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\Register.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\Register.cs",
+              "ToolTip": "C:\\Users\\laura\\Downloads\\Ulfiyatun\\Hotel (3)\\Hotel\\Hotel\\Hotel\\Hotel\\View\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:23:23.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\Register.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\Register.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\Register.cs",
+              "RelativeToolTip": "Hotel\\View\\Register.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:24:18.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reservation.cs [Design]",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\Reservation.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\Reservation.cs",
+              "ToolTip": "C:\\Users\\ThinkFast\\Downloads\\Hotel\\Hotel\\Hotel\\Hotel\\View\\Reservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:12:29.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\main.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\main.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\main.cs",
+              "RelativeToolTip": "Hotel\\View\\main.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowFwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:38:23.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Tamu.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Entry\\Tamu.cs",
+              "RelativeDocumentMoniker": "Hotel\\Model\\Entry\\Tamu.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Entry\\Tamu.cs",
+              "RelativeToolTip": "Hotel\\Model\\Entry\\Tamu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:20:26.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Reservations.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Entry\\Reservations.cs",
+              "RelativeDocumentMoniker": "Hotel\\Model\\Entry\\Reservations.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Entry\\Reservations.cs",
+              "RelativeToolTip": "Hotel\\Model\\Entry\\Reservations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:56:25.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Repository\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "Hotel\\Model\\Repository\\ReservationRepository.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Repository\\ReservationRepository.cs",
+              "RelativeToolTip": "Hotel\\Model\\Repository\\ReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:00:58.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\Profile.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\Profile.cs",
+              "ToolTip": "C:\\Users\\ThinkFast\\Downloads\\Hotel\\Hotel\\Hotel\\Hotel\\View\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:37:01.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\Reservation.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\Reservation.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\Reservation.cs",
+              "RelativeToolTip": "Hotel\\View\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:16:19.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Controller\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Hotel\\Controller\\ReservationController.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Controller\\ReservationController.cs",
+              "RelativeToolTip": "Hotel\\Controller\\ReservationController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:08:09.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Entry\\User.cs",
+              "RelativeDocumentMoniker": "Hotel\\Model\\Entry\\User.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Entry\\User.cs",
+              "RelativeToolTip": "Hotel\\Model\\Entry\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:29:37.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TamuRepository.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Repository\\TamuRepository.cs",
+              "RelativeDocumentMoniker": "Hotel\\Model\\Repository\\TamuRepository.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Repository\\TamuRepository.cs",
+              "RelativeToolTip": "Hotel\\Model\\Repository\\TamuRepository.cs",
+              "ViewState": "AgIAACMAAAAAAIDaARwpwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:24:46.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrTamu.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\FrTamu.cs",
+              "RelativeDocumentMoniker": "Hotel\\View\\FrTamu.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\View\\FrTamu.cs",
+              "RelativeToolTip": "Hotel\\View\\FrTamu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:46:15.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KamarEntity.cs",
+              "DocumentMoniker": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Entry\\KamarEntity.cs",
+              "RelativeDocumentMoniker": "Hotel\\Model\\Entry\\KamarEntity.cs",
+              "ToolTip": "D:\\ruangkreatif.app\\Hotel\\Hotel\\Model\\Entry\\KamarEntity.cs",
+              "RelativeToolTip": "Hotel\\Model\\Entry\\KamarEntity.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T03:50:46.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.Register.resources
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.dll
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.dll
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.xml
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.xml
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.Up2Date
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.main.resources
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.dashboard.resources
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.datakamar.resources
+C:\Users\ThinkFast\Downloads\SEMESTER 3\PL - SMSTER 3\UAS\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.FrmDatakamar.resources
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.dll
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.dll
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.EF6.dll
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.Linq.dll
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.xml
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.xml
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.dashboard.resources
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.datakamar.resources
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.FrmDatakamar.resources
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.main.resources
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.Register.resources
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.Up2Date
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+Z:\KULIAH\Upli\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.dll
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.dll
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.xml
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.xml
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.dashboard.resources
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.datakamar.resources
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.FrmDatakamar.resources
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.main.resources
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.Register.resources
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.Up2Date
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.FrTamu.resources
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\HotelReservasi.View.ReservationForm.resources
+C:\Users\ThinkFast\Downloads\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.Profile.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.dll
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.dll
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.xml
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\bin\Debug\System.Data.SQLite.xml
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.dashboard.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.datakamar.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.FrmDatakamar.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.FrTamu.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.main.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.Profile.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.View.Register.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\HotelReservasi.View.ReservationForm.resources
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.Up2Date
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\laura\Downloads\Ulfiyatun\Hotel (3)\Hotel\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\EntityFramework.dll
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\System.Data.SQLite.dll
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\EntityFramework.xml
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+D:\ruangkreatif.app\Hotel\Hotel\bin\Debug\System.Data.SQLite.xml
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.View.dashboard.resources
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.View.datakamar.resources
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.View.FrmDatakamar.resources
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.View.FrTamu.resources
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.View.main.resources
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.View.Profile.resources
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.View.Register.resources
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\HotelReservasi.View.ReservationForm.resources
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.csproj.Up2Date
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\ruangkreatif.app\Hotel\Hotel\obj\Debug\Hotel.pdb
